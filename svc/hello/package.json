@@ -1,0 +1,8 @@
+{
+  "name": "hello-restify",
+  "version": "0.0.0",
+  "description": "Sample back-end service to sit behind ngx_hawk",
+  "dependencies": {
+    "restify": "2.8.x"
+  }
+}
